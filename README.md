@@ -6,8 +6,6 @@ Atualmente, me dedico a aprender e praticar os fundamentos de desenvolvimento we
 
 🚀 Interesse em aprender sobre desenvolvimento de aplicativos.
 
-☁️ Curioso sobre cloud computing e como as tecnologias em nuvem estão mudando a forma como as aplicações são criadas e mantidas.
-
 📚 Gosto de estudar e compartilhar o que aprendo, seja com os colegas de classe.
 
 💡 Estou sempre em busca de maneiras de resolver problemas e de tornar a tecnologia acessível e útil para todos.
