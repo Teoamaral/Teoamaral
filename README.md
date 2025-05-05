@@ -16,7 +16,10 @@ Estou começando minha jornada no mundo da tecnologia, e acredito que o aprendiz
 📫 Contato: insa: @teoxxz31
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+</p>
 
 
 ## 🚀 Linguagens e Tecnologias
