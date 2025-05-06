@@ -1,3 +1,5 @@
+🍃Ola sou o Téo 
+
 Sou estudante de Desenvolvimento de Sistemas no ensino médio técnico, com um grande interesse em tecnologia, programação e inovação. Busco entender como as soluções tecnológicas podem transformar o mundo e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 Atualmente, me dedico a aprender e praticar os fundamentos de desenvolvimento web, banco de dados, lógica de programação e desenvolvimento de aplicativos, além de estar começando a explorar conceitos de devops e infraestrutura.
