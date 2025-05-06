@@ -11,7 +11,7 @@ Atualmente, me dedico a aprender e praticar os fundamentos de desenvolvimento we
 💡 Estou sempre em busca de maneiras de resolver problemas e de tornar a tecnologia acessível e útil para todos.
 
 Estou começando minha jornada no mundo da tecnologia, e acredito que o aprendizado contínuo e a troca de experiências com a comunidade são essenciais para crescer nesse campo!
-📫 Contato: insa: @teoxxz31
+📫 Contato: teo.amaral.2008@gmail.com
 
 ---
 ## 📊 GitHub Stats
